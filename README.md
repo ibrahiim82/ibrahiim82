@@ -9,6 +9,29 @@ My goal is to be part of big projects in both frontend and backend development, 
 
 Additionally, I want to collaborate effectively within a team and contribute to teamwork-driven projects.
 
+## 🌐 Skills
+
+### Frontend:
+- HTML5 / CSS3
+- Sass
+- MUI
+- Tailwind 
+- React
+- Bootstrap 
+- JavaScript 
+- TypeScript 
+
+### Backend:
+- Node.js 
+- Express.js 
+- MongoDB
+- SQL
+- PostgreSQL 
+
+### Tools & Utilities:
+- Postman
+- Firebase
+- Cypress 
 
 
 ## ⚡ Technologies That I Know
